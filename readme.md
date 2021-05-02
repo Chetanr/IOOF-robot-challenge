@@ -19,10 +19,7 @@ can also use custom data to test the code.
 
 **Exception and Error Handling**
 
-1. The program catches the expection if the user tries to perform any direction move before
-   placing the robot using the PLACE command where there user will be prompted to place the
-   robot before performing any MOVE or direction (i.e LEFT or RIGHT) commands.
-2. Also, if the move makes the robot to fall off the table, a prompt "robot falling off the
+   If the move makes the robot to fall off the table, a prompt "robot falling off the
    table, move ignored" will be shown and the move is ignored.
 
 **Limitations**
@@ -31,4 +28,4 @@ can also use custom data to test the code.
    it can be improved further to handle further directions such TOP RIGHT, TOP LEFT,
    BOTTOM RIGHT and BOTTOM LEFT.
 2. The program does not handle the expection if the user tries to use REPORT command for the first time.
-3. The code does not read the test data from the file.
+3. The code does not read the test data from the file
