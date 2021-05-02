@@ -1,6 +1,7 @@
 The task has been implemented using JAVA. The class diagram of the project can be found in Class Diagram.jpeg file.
 
 **Running the code**
+
 To run the code using the terminal or the command line,
 
 1. navigate to ToyRobot->src directory
@@ -10,6 +11,7 @@ To run the code using the terminal or the command line,
    java ToyRobot
 
 **Test Data**
+
 The test data that can be used to test the code is placed in testData.txt file. You
 can also use custom data to test the code.
 
