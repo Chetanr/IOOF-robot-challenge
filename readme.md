@@ -32,4 +32,3 @@ can also use custom data to test the code.
    BOTTOM RIGHT and BOTTOM LEFT.
 2. The program does not handle the expection if the user tries to use REPORT command for the first time.
 3. The code does not read the test data from the file.
-4. 
