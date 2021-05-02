@@ -6,7 +6,7 @@ To run the code using the terminal or the command line,
 
 1. navigate to ToyRobot->src directory
 2. compile the project using the below command
-   javac \*.javac
+   javac \*.java
 3. run the code using the below command
    java ToyRobot
 
