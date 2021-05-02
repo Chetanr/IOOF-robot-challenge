@@ -1,5 +1,7 @@
 The task has been implemented using JAVA. The class diagram of the project can be found in Class Diagram.jpeg file.
 
+![](Class Diagram.jpeg)
+
 **Running the code**
 
 To run the code using the terminal or the command line,
